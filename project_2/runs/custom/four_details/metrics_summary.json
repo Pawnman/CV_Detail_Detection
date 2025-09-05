@@ -1,0 +1,22 @@
+{
+  "weights": "D:\\Python\\yolo_lr\\runs\\custom\\four_details\\train16\\weights\\best.pt",
+  "conf": 0.35,
+  "iou": 0.5,
+  "imgsz": 640,
+  "batch": 8,
+  "seed": 42,
+  "val": {
+    "metrics/precision(B)": 0.8418854345160182,
+    "metrics/recall(B)": 0.7270319741012199,
+    "metrics/mAP50(B)": 0.7875869317658191,
+    "metrics/mAP50-95(B)": 0.5765195012563378,
+    "fitness": 0.597626244307286
+  },
+  "test": {
+    "metrics/precision(B)": 0.9245098039215687,
+    "metrics/recall(B)": 0.984375,
+    "metrics/mAP50(B)": 0.9786295518207284,
+    "metrics/mAP50-95(B)": 0.7062375107621138,
+    "fitness": 0.7334767148679754
+  }
+}

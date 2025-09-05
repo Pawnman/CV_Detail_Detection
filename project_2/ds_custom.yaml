@@ -1,0 +1,10 @@
+path: ./dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: gear_24t
+  1: RB_2x6
+  2: WP_1x8
+  3: YSB_2x2
