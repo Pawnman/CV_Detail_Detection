@@ -1,0 +1,22 @@
+{
+  "weights": "runs\\custom\\gear24_exp1\\train2\\weights\\best.pt",
+  "conf": 0.35,
+  "iou": 0.5,
+  "imgsz": 640,
+  "batch": 8,
+  "seed": 42,
+  "val": {
+    "metrics/precision(B)": 0.9762579396043003,
+    "metrics/recall(B)": 0.868421052631579,
+    "metrics/mAP50(B)": 0.9544411027568922,
+    "metrics/mAP50-95(B)": 0.7914306250776696,
+    "fitness": 0.8077316728455919
+  },
+  "test": {
+    "metrics/precision(B)": 1.0,
+    "metrics/recall(B)": 1.0,
+    "metrics/mAP50(B)": 0.995,
+    "metrics/mAP50-95(B)": 0.8374264839181287,
+    "fitness": 0.8531838355263158
+  }
+}
