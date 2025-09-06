@@ -21,8 +21,8 @@ This project aims to develop a Computer Vision-based solution to help junior rob
 ### Detection Examples
 | | |
 |:---:|:---:|
-| **Gear Wheel Detection**<br>![Gear Detection](https://via.placeholder.com/400x300/374151/FFFFFF?text=Gear+Wheel+Detection) | **Structural Parts Detection**<br>![Structural Detection](https://via.placeholder.com/400x300/374151/FFFFFF?text=Structural+Parts) |
-| **Annotation Process**<br>![Annotation](https://via.placeholder.com/400x300/374151/FFFFFF?text=Label+Studio+Annotation) | **Real-time Detection**<br>![Real-time](https://via.placeholder.com/400x300/374151/FFFFFF?text=Real-time+Processing) |
+| **Gear Wheel Detection**<br>![Gear Detection](imgs/result_1.png) | **Structural Parts Detection**<br>![Structural Detection](https://via.placeholder.com/400x300/374151/FFFFFF?text=Structural+Parts) |
+| **Annotation Process**<br>![Annotation](imgs/MD_2.png) | **Real-time Detection**<br>![Real-time](imgs/S_2.png) |
 
 ### Technical Implementation
 | | |
