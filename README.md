@@ -21,13 +21,13 @@ This project aims to develop a Computer Vision-based solution to help junior rob
 ### Detection Examples
 | | |
 |:---:|:---:|
-| **Gear Wheel Detection**<br>![Gear Detection](imgs/result_1.png) | **Structural Parts Detection**<br>![Structural Detection](https://via.placeholder.com/400x300/374151/FFFFFF?text=Structural+Parts) |
+| **Gear Wheel Detection**<br>![Gear Detection](imgs/result_1.png) | **Structural Parts Detection**<br>![Structural Detection](imgs/SPD_1.png) |
 | **Annotation Process**<br>![Annotation](imgs/MD_2.png) | **Real-time Detection**<br>![Real-time](imgs/S_2.png) |
 
-### Technical Implementation
+### Metrics
 | | |
 |:---:|:---:|
-| **Dataset Samples**<br>![Dataset](https://via.placeholder.com/400x300/374151/FFFFFF?text=Dataset+Examples) | **Results Comparison**<br>![Results](https://via.placeholder.com/400x300/374151/FFFFFF?text=Results+Comparison) |
+| **Metrics**<br>![Dataset](imgs/Me_2.png) | **Confusion Matrix Norm**<br>![Results](imgs/M_1png.png) |
 
 ## 🛠️ Technology Stack
 
@@ -56,8 +56,3 @@ When a part is detected, the algorithm:
 2. Determines the appropriate section
 3. Provides visual indication for placement
 4. Displays confidence scores
-
-### Example Output
-```bash
-Detected: Gear Wheel - Section: Mechanics - Confidence: 0.92
-Detected: White Plate 1x8 - Section: Structural - Confidence: 0.76
